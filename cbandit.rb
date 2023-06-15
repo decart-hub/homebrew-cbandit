@@ -1,4 +1,4 @@
-class CBandit < Formula
+class Cbandit < Formula
     desc "Programmatically extract saved passwords from Chromium based browsers on macOS"
     homepage "https://github.com/decart-hub/cbandit"
     url "https://github.com/decart-hub/cbandit/archive/refs/tags/v1.0-beta-0.3.tar.gz"
